@@ -17,9 +17,6 @@ I enjoy creating tools that help businesses automate processes and make data mor
 - A Telegram bot to query and manage company documents using AI.
 - Automation tools for document processing and notifications.
 
-📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackarino&show_icons=true&theme=tokyonight)
-
 🌐 **Find Me Here**
 [LinkedIn](https://www.linkedin.com/in/francisco-munoz-martin/)
 
