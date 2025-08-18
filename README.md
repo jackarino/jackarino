@@ -1,21 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Francisco
+Aerospace Engineer | Specializing in AI Solutions and Automation
 
-# 👋 Hi, I'm Jackarino
+🎯 About Me
+Aerospace engineer passionate about applying analytical skills to AI-driven automation. My background in complex systems fuels my drive to build tools that streamline workflows.
 
-**Software Engineer specialized in automation, AI integration, and cloud solutions.**
+🛠️ Technologies I Use
+Python, C#, Azure, SQL Server, OpenAI, NumPy, Pandas, TensorFlow
 
-🎯 **About Me**
-I enjoy creating tools that help businesses automate processes and make data more accessible. My work often involves integrating cloud platforms, messaging apps, and AI services.
+🏆 Key Achievements
+Built a Telegram bot with Python and OpenAI for document management.
+Optimized aerospace project processes through data analysis at INECO and MRinformatica.
+Developed automation scripts for FMS installation at ABB using C# and Python.
 
-🛠️ **Technologies I Use**
-- Python
-- Azure
-- SQL Server
-- OpenAI
-
-🚀 **Current Projects**
-- A Telegram bot to query and manage company documents using AI.
-- Automation tools for document processing and notifications.
+🚀 Current Projects
+Telegram bot for querying and managing business documents with AI.
+Automation tool for document processing.
+Freelance automation of company processes using APIs.
 
 🌐 **Find Me Here**
 [LinkedIn](https://www.linkedin.com/in/francisco-munoz-martin/)
