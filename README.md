@@ -3,7 +3,7 @@
 **Aerospace Engineer | Specializing in AI Solutions and Automation**
 
 🎯 **About Me**
- I am an aerospace engineer passionate about applying analytical skills to AI-driven automation. My background in complex systems fuels my drive to build tools that streamline workflows.
+     I am an aerospace engineer passionate about applying analytical skills to AI-driven automation. My background in complex systems fuels my drive to build tools that streamline workflows.
 
 *🛠️ **Technologies I Use***
 - Python, C#, Azure, SQL Server, OpenAI, NumPy, Pandas, TensorFlow
