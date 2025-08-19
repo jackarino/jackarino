@@ -1,5 +1,5 @@
-# Hi there 👋
-## 👋 I'm Francisco
+# Hi there
+## I'm Francisco
 **# Aerospace Engineer | Specializing in AI Solutions and Automation**
 
 *🎯 **About Me***
